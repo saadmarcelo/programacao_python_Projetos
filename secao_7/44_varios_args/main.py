@@ -6,5 +6,5 @@ def soma(*numeros):
     return resultado
 
 
-x = soma(2, 3, 4, 5)
-print(x)
+X = soma(2, 3, 4, 5)
+print(X)
